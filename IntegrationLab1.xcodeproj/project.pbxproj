@@ -434,6 +434,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7MS6HQ5AL2;
 				INFOPLIST_FILE = IntegrationLab1/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = "carlos.developing@gmail.com";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = clc.IntegrationLab1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -451,6 +452,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7MS6HQ5AL2;
 				INFOPLIST_FILE = IntegrationLab1/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = "carlos.developing@gmail.com";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = clc.IntegrationLab1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
