@@ -14,6 +14,7 @@
 		289F84D51FD5EB7E00F0DF50 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 289F84D31FD5EB7E00F0DF50 /* LaunchScreen.storyboard */; };
 		289F84E01FD5EB7E00F0DF50 /* IntegrationLab1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 289F84DF1FD5EB7E00F0DF50 /* IntegrationLab1Tests.swift */; };
 		289F84EB1FD5EB7E00F0DF50 /* IntegrationLab1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 289F84EA1FD5EB7E00F0DF50 /* IntegrationLab1UITests.swift */; };
+		289F84F91FD5EDAA00F0DF50 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 289F84F81FD5EDAA00F0DF50 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		289F84E61FD5EB7E00F0DF50 /* IntegrationLab1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IntegrationLab1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		289F84EA1FD5EB7E00F0DF50 /* IntegrationLab1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntegrationLab1UITests.swift; sourceTree = "<group>"; };
 		289F84EC1FD5EB7E00F0DF50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		289F84F81FD5EDAA00F0DF50 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		289F84BE1FD5EB7D00F0DF50 = {
 			isa = PBXGroup;
 			children = (
+				289F84F81FD5EDAA00F0DF50 /* .gitignore */,
 				289F84C91FD5EB7E00F0DF50 /* IntegrationLab1 */,
 				289F84DE1FD5EB7E00F0DF50 /* IntegrationLab1Tests */,
 				289F84E91FD5EB7E00F0DF50 /* IntegrationLab1UITests */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				289F84F91FD5EDAA00F0DF50 /* .gitignore in Resources */,
 				289F84D51FD5EB7E00F0DF50 /* LaunchScreen.storyboard in Resources */,
 				289F84D21FD5EB7E00F0DF50 /* Assets.xcassets in Resources */,
 				289F84D01FD5EB7E00F0DF50 /* Main.storyboard in Resources */,
